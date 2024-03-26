@@ -1,7 +1,4 @@
 ### Hi 👋 I'm Rafał, a Fullstack Web Developer and a Second Year Computer Science student from Poland
-
-<br/>
-
 ## 🙋‍♂️ About Me
 In my everyday life I'm a Fullstack Web Developer, who aside form his formal duties, tries to express himself via various personal projects 🤗
 <br/><br/>
