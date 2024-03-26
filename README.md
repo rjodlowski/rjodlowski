@@ -1,4 +1,4 @@
-### Hi 👋 I'm Rafał, a backend Web Developer from Poland
+### Hi 👋 I'm Rafał, a Fullstack Web Developer from Poland
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjodlowski&show_icons=true&theme=chartreuse-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjodlowski&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Technologies
